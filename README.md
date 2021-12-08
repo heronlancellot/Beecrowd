@@ -1,2 +1,2 @@
 # Beecrowd
-Beecrowd Solutions 
+Beecrowd Solutions Python
